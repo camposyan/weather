@@ -1,6 +1,6 @@
 <h1>Weather App</h1>
 
-<h3>Using JS, we get data from Openweather and show some weather's information.</h3>
+<h3>Using JS, we get data from Openweather and show some weather's informations.</h3>
 
 <h4>Languages used:</h4> 
 
