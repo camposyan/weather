@@ -1,0 +1,1 @@
+let key = '8227b15c2829d3ef46aab99c5708cfee'; //! Openweather key 
